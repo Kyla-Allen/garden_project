@@ -24,4 +24,4 @@
 /.nb-gradle/
 /build/
 
-/Users/themightyflorp/IdeaProjects/Garden/src/main/resources/application.properties
+/src/main/resources/application.properties
